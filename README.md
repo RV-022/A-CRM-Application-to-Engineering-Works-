@@ -1,4 +1,4 @@
-# Project Title
+# A CRM APPLICATION TO ENGINEERING WORKS
 
 This project is focused on developing an application to manage client information for
 engineering projects, designed to address the need for streamlined client information
